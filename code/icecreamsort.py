@@ -1,4 +1,3 @@
-# Icecream Sort
 
 class Icecream():
     def __init__(self): #Initialise properties of object
